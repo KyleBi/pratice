@@ -4,4 +4,6 @@ push
 add dev
 modify
 online
+stash
+
 
