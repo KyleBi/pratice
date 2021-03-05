@@ -5,5 +5,6 @@ add dev
 modify
 online
 stash
+vim
 
 
